@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml",
+        "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml"
+    },
+    {
+        "merged": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_play.xml",
+        "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_play.xml"
+    },
+    {
+        "merged": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml",
+        "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml"
+    },
+    {
+        "merged": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml",
+        "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml"
+    },
+    {
+        "merged": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml",
+        "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml"
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,161,261,357,483",
+                        "endColumns": "105,99,95,125,129",
+                        "endOffsets": "156,256,352,478,608"
+                    }
+                },
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "613",
+                        "endColumns": "100",
+                        "endOffsets": "709"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/merged_res/release/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,161,261,357,483",
+                        "endColumns": "105,99,95,125,129",
+                        "endOffsets": "156,256,352,478,608"
+                    }
+                },
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "613",
+                        "endColumns": "100",
+                        "endOffsets": "709"
+                    }
+                }
+            ]
+        }
+    ]
+}

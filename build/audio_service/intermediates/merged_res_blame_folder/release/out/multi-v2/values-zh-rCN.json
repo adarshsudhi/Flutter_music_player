@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "560",
+                        "endColumns": "100",
+                        "endOffsets": "656"
+                    }
+                },
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,152,246,338,447",
+                        "endColumns": "96,93,91,108,112",
+                        "endOffsets": "147,241,333,442,555"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/merged_res/release/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "560",
+                        "endColumns": "100",
+                        "endOffsets": "656"
+                    }
+                },
+                {
+                    "source": "/home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,152,246,338,447",
+                        "endColumns": "96,93,91,108,112",
+                        "endOffsets": "147,241,333,442,555"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:7:4-46:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/adarsh/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/adarsh/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:8:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:9:9-31
+	android:icon
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:10:9-42
+manifest
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [:just_audio] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_service] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:on_audio_query] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/on_audio_query/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/adarsh/.gradle/caches/transforms-3/2d73d1a5d31be31f59f39f1e31fa018e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/adarsh/.gradle/caches/transforms-3/9baafc8faf7ca496894bd197e67f88be/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/adarsh/.gradle/caches/transforms-3/b769942816deb2234fdd8a9a539fe1c4/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/adarsh/.gradle/caches/transforms-3/84618b1246c4ea9ad6d94c82904b1f9e/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/adarsh/.gradle/caches/transforms-3/208135a61120daf313f32e0ed25386e9/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media2:media2-common:1.2.0] /home/adarsh/.gradle/caches/transforms-3/6fe0510a27c48bc8f22358c8126a62ee/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] /home/adarsh/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/adarsh/.gradle/caches/transforms-3/0e0e1a382b52c0572988a1c50e96d2f7/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adarsh/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/adarsh/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/adarsh/.gradle/caches/transforms-3/8fa8bdf086632123dcb3f9226ab7b2b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/adarsh/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/adarsh/.gradle/caches/transforms-3/3e2f596e16be5821f94a6b1a5a8b72cc/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/adarsh/.gradle/caches/transforms-3/0adcbd77e380821b18f12625f47737aa/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/adarsh/.gradle/caches/transforms-3/efd9e3cd0386a6d8ad26eb29bb109a6c/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/adarsh/.gradle/caches/transforms-3/549346c3ff7c647449c040627ded9ac3/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/adarsh/.gradle/caches/transforms-3/447472a30170f24b4509757592faeb24/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/adarsh/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/adarsh/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/adarsh/.gradle/caches/transforms-3/7f5341402df1317e3084f464aedd2232/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/adarsh/.gradle/caches/transforms-3/8a5514d4341f323606d890e29d4268b9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/adarsh/.gradle/caches/transforms-3/61be2594815516b1d798e8de806d8dcb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adarsh/.gradle/caches/transforms-3/4d571c0d2420042bbe5204d312a62bb2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adarsh/.gradle/caches/transforms-3/ab7ce279708bbb9e6bfa95c7580f1bb9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/adarsh/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/adarsh/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+	package
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:3:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:6:22-65
+uses-sdk
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+MERGED from [:just_audio] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:just_audio] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:on_audio_query] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/on_audio_query/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:on_audio_query] /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/build/on_audio_query/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/adarsh/.gradle/caches/transforms-3/2d73d1a5d31be31f59f39f1e31fa018e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/adarsh/.gradle/caches/transforms-3/2d73d1a5d31be31f59f39f1e31fa018e/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/adarsh/.gradle/caches/transforms-3/9baafc8faf7ca496894bd197e67f88be/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/adarsh/.gradle/caches/transforms-3/9baafc8faf7ca496894bd197e67f88be/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/adarsh/.gradle/caches/transforms-3/b769942816deb2234fdd8a9a539fe1c4/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /home/adarsh/.gradle/caches/transforms-3/b769942816deb2234fdd8a9a539fe1c4/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/adarsh/.gradle/caches/transforms-3/84618b1246c4ea9ad6d94c82904b1f9e/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /home/adarsh/.gradle/caches/transforms-3/84618b1246c4ea9ad6d94c82904b1f9e/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/adarsh/.gradle/caches/transforms-3/208135a61120daf313f32e0ed25386e9/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /home/adarsh/.gradle/caches/transforms-3/208135a61120daf313f32e0ed25386e9/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] /home/adarsh/.gradle/caches/transforms-3/6fe0510a27c48bc8f22358c8126a62ee/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] /home/adarsh/.gradle/caches/transforms-3/6fe0510a27c48bc8f22358c8126a62ee/transformed/jetified-media2-common-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /home/adarsh/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /home/adarsh/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/adarsh/.gradle/caches/transforms-3/0e0e1a382b52c0572988a1c50e96d2f7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/adarsh/.gradle/caches/transforms-3/0e0e1a382b52c0572988a1c50e96d2f7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adarsh/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adarsh/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/adarsh/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/adarsh/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/adarsh/.gradle/caches/transforms-3/8fa8bdf086632123dcb3f9226ab7b2b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/adarsh/.gradle/caches/transforms-3/8fa8bdf086632123dcb3f9226ab7b2b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/adarsh/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/adarsh/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/adarsh/.gradle/caches/transforms-3/3e2f596e16be5821f94a6b1a5a8b72cc/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /home/adarsh/.gradle/caches/transforms-3/3e2f596e16be5821f94a6b1a5a8b72cc/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/adarsh/.gradle/caches/transforms-3/0adcbd77e380821b18f12625f47737aa/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /home/adarsh/.gradle/caches/transforms-3/0adcbd77e380821b18f12625f47737aa/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/adarsh/.gradle/caches/transforms-3/efd9e3cd0386a6d8ad26eb29bb109a6c/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /home/adarsh/.gradle/caches/transforms-3/efd9e3cd0386a6d8ad26eb29bb109a6c/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/adarsh/.gradle/caches/transforms-3/549346c3ff7c647449c040627ded9ac3/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /home/adarsh/.gradle/caches/transforms-3/549346c3ff7c647449c040627ded9ac3/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/adarsh/.gradle/caches/transforms-3/447472a30170f24b4509757592faeb24/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/adarsh/.gradle/caches/transforms-3/447472a30170f24b4509757592faeb24/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/adarsh/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/adarsh/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/adarsh/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/adarsh/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/adarsh/.gradle/caches/transforms-3/7f5341402df1317e3084f464aedd2232/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/adarsh/.gradle/caches/transforms-3/7f5341402df1317e3084f464aedd2232/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/adarsh/.gradle/caches/transforms-3/8a5514d4341f323606d890e29d4268b9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/adarsh/.gradle/caches/transforms-3/8a5514d4341f323606d890e29d4268b9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/adarsh/.gradle/caches/transforms-3/61be2594815516b1d798e8de806d8dcb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/adarsh/.gradle/caches/transforms-3/61be2594815516b1d798e8de806d8dcb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adarsh/.gradle/caches/transforms-3/4d571c0d2420042bbe5204d312a62bb2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adarsh/.gradle/caches/transforms-3/4d571c0d2420042bbe5204d312a62bb2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adarsh/.gradle/caches/transforms-3/ab7ce279708bbb9e6bfa95c7580f1bb9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adarsh/.gradle/caches/transforms-3/ab7ce279708bbb9e6bfa95c7580f1bb9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/adarsh/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/adarsh/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/adarsh/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/adarsh/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+activity#com.ryanheise.audioservice.AudioServiceActivity
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:12:8-24:20
+	android:launchMode
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:19:13-36
+	android:configChanges
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:16:13-144
+	android:theme
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:13:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:22:27-74
+service#com.ryanheise.audioservice.AudioService
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:26:9-33:19
+	android:exported
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:29:13-36
+	android:foregroundServiceType
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:28:13-58
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:27:13-67
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:30:13-32:29
+action#android.media.browse.MediaBrowserService
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:17-83
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:25-80
+receiver#com.ryanheise.audioservice.MediaButtonReceiver
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:35:9-41:20
+	android:exported
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:36:13-74
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:38:13-40:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:39:25-74
+meta-data#flutterEmbedding
+ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from /home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:44:13-44
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/adarsh/.gradle/caches/transforms-3/447472a30170f24b4509757592faeb24/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /home/adarsh/.gradle/caches/transforms-3/447472a30170f24b4509757592faeb24/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+queries
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:24:5-34:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:25:9-27:18
+intent#action:name:androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:28:9-30:18
+action#androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:21-79
+intent#action:name:androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:31:9-33:18
+action#androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:21-79

@@ -1,0 +1,141 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.playit"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:3:5-79
+11-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:3:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:4:5-80
+12-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:4:22-78
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:5:5-76
+13-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:5:22-74
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:6:5-67
+14-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:6:22-65
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+15-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /home/adarsh/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
+16
+17    <queries>
+17-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:24:5-34:15
+18        <intent>
+18-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:25:9-27:18
+19            <action android:name="android.media.browse.MediaBrowserService" />
+19-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:17-83
+19-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:25-80
+20        </intent>
+21        <intent>
+21-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:28:9-30:18
+22            <action android:name="androidx.media2.session.MediaSessionService" />
+22-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:13-82
+22-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:29:21-79
+23        </intent>
+24        <intent>
+24-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:31:9-33:18
+25            <action android:name="androidx.media2.session.MediaLibraryService" />
+25-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:13-82
+25-->[androidx.media2:media2-session:1.2.0] /home/adarsh/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:32:21-79
+26        </intent>
+27    </queries>
+28
+29    <application
+30        android:name="android.app.Application"
+30-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:10:9-42
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.7.0] /home/adarsh/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher"
+32-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:11:9-43
+33        android:label="playit"
+33-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:9:9-31
+34        android:requestLegacyExternalStorage="true" >
+34-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:8:9-52
+35        <activity
+35-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:12:8-24:20
+36            android:name="com.ryanheise.audioservice.AudioServiceActivity"
+36-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:13:13-75
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:16:13-144
+38            android:exported="true"
+38-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:19:13-36
+39            android:hardwareAccelerated="true"
+39-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:17:13-47
+40            android:launchMode="singleTop"
+40-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:14:13-43
+41            android:theme="@style/LaunchTheme"
+41-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:15:13-47
+42            android:windowSoftInputMode="adjustResize" >
+42-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:18:13-55
+43            <intent-filter>
+43-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:20:13-23:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:21:17-68
+44-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:21:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:22:17-76
+46-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:22:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <service
+50-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:26:9-33:19
+51            android:name="com.ryanheise.audioservice.AudioService"
+51-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:27:13-67
+52            android:exported="true"
+52-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:29:13-36
+53            android:foregroundServiceType="mediaPlayback" >
+53-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:28:13-58
+54            <intent-filter>
+54-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:30:13-32:29
+55                <action android:name="android.media.browse.MediaBrowserService" />
+55-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:17-83
+55-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:31:25-80
+56            </intent-filter>
+57        </service>
+58
+59        <receiver
+59-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:35:9-41:20
+60            android:name="com.ryanheise.audioservice.MediaButtonReceiver"
+60-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:36:13-74
+61            android:exported="true" >
+61-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:37:13-36
+62            <intent-filter>
+62-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:38:13-40:29
+63                <action android:name="android.intent.action.MEDIA_BUTTON" />
+63-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:39:17-77
+63-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:39:25-74
+64            </intent-filter>
+65        </receiver>
+66
+67        <meta-data
+67-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:43:9-45:33
+68            android:name="flutterEmbedding"
+68-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:44:13-44
+69            android:value="2" />
+69-->/home/adarsh/Desktop/Flutter Projects/Mucix/Flutter_Music_player/android/app/src/main/AndroidManifest.xml:45:13-30
+70
+71        <uses-library
+71-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+72            android:name="androidx.window.extensions"
+72-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+73            android:required="false" />
+73-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+74        <uses-library
+74-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+75            android:name="androidx.window.sidecar"
+75-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+76            android:required="false" />
+76-->[androidx.window:window:1.0.0-beta04] /home/adarsh/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+77    </application>
+78
+79</manifest>
